@@ -4,7 +4,7 @@
 ## 1、Redmi AX6 XiaoMi AX3600  AX9000
 - 使用源码：https://github.com/coolsnowwolf/lede (恢复对ax6 AX3600 的支持，对同步Lean主线兼容ipq807x做测试使用)
 - 内核：5.10
-- 默认IP:192.168.10.1
+- 默认IP:192.168.1.1
 - 用户名：root
 - 密码：password
 
