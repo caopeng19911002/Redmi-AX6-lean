@@ -175,7 +175,7 @@ jobs:
         [ $UPLOAD_COWTRANSFER = true ] && echo "�� [Cowtransfer](${{ steps.cowtransfer.outputs.url }})" >> release.txt
         [ $UPLOAD_WETRANSFER = true ] && echo "�� [WeTransfer](${{ steps.wetransfer.outputs.url }})" >> release.txt
         echo "Redmi-AX6 Openwrt 固件配置：" >> release.txt
-        echo "IP:192.168.10.1" >> release.txt
+        echo "IP:192.168.1.1" >> release.txt
         echo "WEB登陆账户：root" >> release.txt
         echo "密码：password" >> release.txt
         echo "固件源码：https://github.com/coolsnowwolf/lede" >> release.txt
