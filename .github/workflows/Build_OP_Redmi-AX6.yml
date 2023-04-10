@@ -22,7 +22,7 @@ on:
   #  branches: 
   #    - master
 
-  schedule:
+  # schedule:
     - cron: 37 3 * * 5
   
   #watch:
